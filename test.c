@@ -5,5 +5,6 @@ int main(int argc, const char *argv[])
     printf("hello \n");
     printf("feature \n");
     printf("---------------editor----------\n");
+    printf("---------------master----------\n");
     return 0;
 }
